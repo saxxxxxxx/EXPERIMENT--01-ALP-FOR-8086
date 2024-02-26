@@ -81,21 +81,25 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-## Output  
+## Output : ![Screenshot 2024-02-26 080553](https://github.com/saxxxxxxx/EXPERIMENT--01-ALP-FOR-8086/assets/154911090/0a22b43f-bd97-4855-b21c-f67fc8954426)
+  
  
 ## Subtraction   of 8 bit numbers  ALP 
  
-## Output  
+## Output : ![Screenshot 2024-02-26 080852](https://github.com/saxxxxxxx/EXPERIMENT--01-ALP-FOR-8086/assets/154911090/e1295d99-a33c-474a-b4c5-ad4ef282303a)
+ 
 ## Multiplication alp 
- ## Output  
+ ## Output : ![Screenshot 2024-02-26 090857](https://github.com/saxxxxxxx/EXPERIMENT--01-ALP-FOR-8086/assets/154911090/4a25437f-02e2-4d80-9bcc-61663de0b0dc)
+ 
 
 
 ## Division alp 
 
-## Output  
+## Output :  ![Screenshot 2024-02-26 082415](https://github.com/saxxxxxxx/EXPERIMENT--01-ALP-FOR-8086/assets/154911090/b3df4d64-b145-4986-b3dc-0c07aa7ad863)
+ 
 
 
-## Result :
+## Result : this program is successfully completed
  
 
 
